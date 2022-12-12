@@ -7,3 +7,9 @@ SearchContact: To search a contact wether it's in the  Phone Directory or not.
 ShowContact: To show all available contacts from Phone Directory.
 
 You can run it from any java compiler.
+
+YouTube Link: https://youtu.be/QKX1MAsmM1k
+
+GitHub Link: 
+
+
