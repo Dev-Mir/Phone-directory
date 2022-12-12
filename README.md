@@ -3,7 +3,7 @@
 Group members: 
 
 Mir Hussain (023-19-0106)
-Kamran Ali: (023-19-)
+Kamran Javed: (023-19-0007)
 Rahul Puri: (023-19-0122)
 
 
